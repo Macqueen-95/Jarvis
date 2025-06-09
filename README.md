@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Macqueen-95/Jarvis/main/Jarvis-banner.png" alt="Jarvis Banner" width="100%"/>
+</p>
+
 <h1 align="center">🤖 Jarvis - Your Personal AI Assistant</h1>
 
 <p align="center">
